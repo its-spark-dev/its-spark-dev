@@ -70,14 +70,9 @@ I believe good software is built by people who can think clearly *and* communica
 
 ---
 
-## GitHub at a glance
+## Building in progress
 
-## GitHub at a glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-spark-dev&show_icons=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-spark-dev&layout=compact" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=its-spark-dev&theme=github-dark)
 
 ---
 
